@@ -4,4 +4,5 @@ __pycache__/
 *.zip
 .ipynb_checkpoints/
 data/
+env39/
 Anaconda3-*.sh
