@@ -25,3 +25,11 @@ A folder for the storage of completed, labeled, synthetic data to be used in tra
 
 ### baseline/segment
 A folder for real segmented clip images for testing purposes.
+
+
+## To run
+Python 3.9.19
+Pytorch 2.3.1
+Pytorch3D 0.7.7
+CUDA 11.8
+PyVista 0.44.1
