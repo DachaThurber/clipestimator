@@ -3,6 +3,6 @@ __pycache__/
 *.pt
 *.zip
 .ipynb_checkpoints/
-data/
+data/baseline/raw/
 env39/
 Anaconda3-*.sh
