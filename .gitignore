@@ -1,0 +1,6 @@
+echo "__pycache__/
+.venv/
+*.pt
+*.zip
+.ipynb_checkpoints/
+data/" > .gitignore
