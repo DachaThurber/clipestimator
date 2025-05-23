@@ -1,6 +1,7 @@
-echo "__pycache__/
+__pycache__/
 .venv/
 *.pt
 *.zip
 .ipynb_checkpoints/
-data/" > .gitignore
+data/
+Anaconda3-*.sh
